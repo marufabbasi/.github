@@ -12,7 +12,7 @@ I  have built the groot language and interpreter for it in about 100 minutes dur
  
 https://www.youtube.com/watch?v=su8PBuGOXq4 
 
-I am in the process of creating a just in time compiler for the language.
+I am in the process of creating a just in time compiler (using LLVM) for the language.
 
 The objectives of the compiler:
 
