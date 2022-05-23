@@ -20,6 +20,12 @@ The objectives of the compiler:
 * Automatic memory management with out a GC (like Rust)
 * High level language formost tasks but can be used for systems programming as well (alternative to  C++)
 
+Development plan:
+
+* Use ANTLR4 to generate lexer/parser for the language
+* Create an interpreter to demonstrate the language
+* Generate executable machine code using LLVM as the backend
+* We prefer not to work on optimization and machine code generation until absolutely necessary (use LLVM instead)  
 
 ### jvm
 
