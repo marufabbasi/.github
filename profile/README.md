@@ -7,6 +7,7 @@ This github account is to share some of those. Please keepin mind that I do not 
 ### groot
 
 Repository: https://github.com/marufabbasi/groot
+Compiler repo: https://github.com/marufabbasi/grootc
 
 I  have built the groot language and interpreter for it in about 100 minutes during a live session on youtube. The audience of my seesion was mostly non-english speaking -but you should be able to  follow the code maybe. Here is the video:
  
